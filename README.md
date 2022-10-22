@@ -45,6 +45,6 @@
   <img alt="profile pic" src="https://raw.githubusercontent.com/Phantom-19/Border/master/capture/fax2.png" width="500"/> 
 </p>
 <p align="center">
-<img alt="" src="https://github-readme-stats.vercel.app/api?username=threat0&show_icons=true&include_all_commits=true&hide_border=true"/>
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=threat0&hide=ruby,perl&hide_border=true"/>
+<img alt="" src="https://github-readme-stats.vercel.app/api?username=Faxelh&show_icons=true&include_all_commits=true&hide_border=true"/>
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Faxelh&hide=ruby,perl&hide_border=true"/>
 </p>
